@@ -1,4 +1,4 @@
-# ATM-Machine
+# ATM
 
 A very basic ATM machine program.
 (All user account values cannot be accessed after runtime of the program)
